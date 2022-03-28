@@ -1,14 +1,3 @@
-### 📱 Contacts :
-<div id="header" align="center">
-  <div id="badges">
-    <a href="https://t.me/rtplv">
-      <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-    </a>
-  </div>
-</div>
-
----
-
 ### 👨‍💻: About Me :
 I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 - 🕸️  Specialize in web application development.
@@ -36,3 +25,13 @@ I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rtplv&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+---
+
+### 📱 Contacts :
+<div id="header" align="center">
+  <div id="badges">
+    <a href="https://t.me/rtplv">
+      <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+    </a>
+  </div>
+</div>
