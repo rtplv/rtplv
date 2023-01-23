@@ -1,5 +1,4 @@
 ### 👨‍💻: About Me :
-I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 - 🕸️  Specialize in web application development.
 - 🧵  Love asynchronous programming.
 - 🔭  In my free time, I solve problems on leetcode and read tech articles.
